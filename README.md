@@ -12,9 +12,9 @@ Integrantes:
 - Javier Linares – 231135
 - Luis Pedro Lira – 23669
 
+---
 
-
-### 1. 
+# 1. 
 Para los siguientes datos: Construir el clasificador bayesiano óptimo. Indicar la regla de clasificación. Hallar el error de este clasificador.
 
 |       | X = 1 | X = 2 | X = 3 | X = 4 |
@@ -60,7 +60,7 @@ El clasificador bayesiano óptimo ha sido implementado correctamente. El error d
 ---
 
 
-### 3.
+# 3.
 
 La siguiente tabla de datos muestra información de la decisión de jugar o no jugar golf, en función de varios factores como el tipo de clima, temperatura, humedad, o si hay viento, para 14 observaciones diferentes.
 
