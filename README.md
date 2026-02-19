@@ -142,7 +142,7 @@ Ambos modelos coinciden en los casos de prueba:
 
 
 
-**## Conclusiones**
+## Conclusiones
 La **Regresión Logística** resulta ser el modelo superior para este caso, ya que alcanza un **ROC AUC de 0.9778** y un **Recall de 1.0**, demostrando una capacidad casi perfecta para separar las clases y no omitir ningún caso positivo ("Yes").
 
 ## ¿Cómo clasificar con pocos datos?
