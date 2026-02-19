@@ -99,20 +99,18 @@ para determinar si se debe o no jugar golf en los siguientes casos:
 - $x = (\text{Rainy}, \text{Hot}, \text{High}, \text{False})$
 - $x = (\text{Sunny}, \text{Hot}, \text{Normal}, \text{False})$
 
----
 
-Compare el desempeño de sus dos clasificadores e indique con cuál se obtienen mejores resultados.  
-Utilice métricas como:
+**Compare el desempeño de sus dos clasificadores e indique con cuál se obtienen mejores resultados.  
+Utilice métricas como:**
 
 - Accuracy  
 - Precision  
 - Recall  
 - $F_1$ Score  
-- ROC AUC  
+- ROC AUC 
 
 para validar su argumento.
 
----
 
 Responda la siguiente pregunta:
 
@@ -144,7 +142,7 @@ Ambos modelos coinciden en los casos de prueba:
 
 
 
-## Conclusiones
+**## Conclusiones**
 La **Regresión Logística** resulta ser el modelo superior para este caso, ya que alcanza un **ROC AUC de 0.9778** y un **Recall de 1.0**, demostrando una capacidad casi perfecta para separar las clases y no omitir ningún caso positivo ("Yes").
 
 ## ¿Cómo clasificar con pocos datos?
