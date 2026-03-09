@@ -1,12 +1,7 @@
 # Inteligencia Artificial - Lab 03
-**Diseño de Redes Neuronales Fully Connected con TensorFlow y Keras**
 
-## Enunciado del Laboratorio
-El objetivo de este laboratorio fue diseñar e implementar redes neuronales densas (*fully connected*) utilizando `tensorflow.keras` para abordar dos problemas fundamentales en machine learning:
-1. **Clasificación Multiclase:** Uso del dataset `digits` (Scikit-Learn) para clasificar imágenes de números escritos a mano (10 clases).
-2. **Regresión:** Uso del dataset `california_housing` (Scikit-Learn) para predecir el precio continuo de viviendas basado en variables socioeconómicas.
 
-## ¿Cómo se resolvió? (Reporte de Trabajo)
+## ¿Cómo se resolvió? 
 
 ### Ejercicio 1: Clasificación de Dígitos
 - **Preprocesamiento:** Se normalizaron los valores de los píxeles de las imágenes dividiendo entre 16 para asegurar valores en el rango [0,1]. Además, las etiquetas fueron transformadas usando *One-Hot Encoding*.
