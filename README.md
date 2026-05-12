@@ -74,7 +74,7 @@ El laberinto se representa como un **array NumPy 2D** (`filas × columnas`) con 
 
 ---
 
-### Problema 1 — Generación de Laberintos
+###  — Generación de Laberintos
 
 Se implementaron dos algoritmos de spanning tree que generan **laberintos perfectos** (existe exactamente un camino entre cualquier par de celdas).
 
@@ -131,7 +131,7 @@ Parte de un espacio completamente abierto y lo subdivide recursivamente con pare
 
 ---
 
-### Problema 2 — Solución de un Laberinto Aleatorio
+###  — Solución de un Laberinto Aleatorio
 
 Se generaron dos laberintos de tamaño **61×81** (uno Prim, uno División Recursiva) y se resolvieron con **A\***.
 
@@ -157,7 +157,7 @@ Se generaron dos laberintos de tamaño **61×81** (uno Prim, uno División Recur
 
 ---
 
-### Problema 3 — Comparación de Algoritmos de Búsqueda
+###  — Comparación de Algoritmos de Búsqueda
 
 ### ***Algoritmos Implementados***
 
