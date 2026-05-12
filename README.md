@@ -24,7 +24,7 @@ Este proyecto implementa y compara algoritmos de búsqueda para resolver laberin
 ### Estructura del Repositorio
 
 ```
-proyecto2/
+/
 │
 ├── Proyecto2.ipynb          # Notebook principal con toda la implementación
 └── README.md                # Este archivo
