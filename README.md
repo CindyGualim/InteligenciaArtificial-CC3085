@@ -182,7 +182,9 @@ Implementada en Pygame a **60 FPS**. Incluye:
 
 ## Video de Demostración
 
->  **[pendiente agregar vidio]**
+<a href="https://www.youtube.com/watch?v=lOs5BeRPy_g">
+  <img src="https://img.youtube.com/vi/lOs5BeRPy_g/maxresdefault.jpg" width="480" alt="Video de demostración — Othello IA CC3085">
+</a>
 
 El video de 3 minutos muestra:
 1. Modo **Humano vs Humano** — turno alternado, pistas y volteo de fichas
